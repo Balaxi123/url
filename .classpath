@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/selenium-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/selenium-chrome-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/jetty-io-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/jetty-util-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/selenium-edge-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/selenium-firefox-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/selenium-ie-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/selenium-java-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/selenium-opera-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/selenium-remote-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/selenium-safari-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/selenium-support-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation/selenium_jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

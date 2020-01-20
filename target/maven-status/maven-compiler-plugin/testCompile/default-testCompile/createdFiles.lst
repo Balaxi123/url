@@ -1,0 +1,12 @@
+testcases\BaseClass.class
+utility\Email$1.class
+testcases\VerifyURLStatus.class
+utility\ConfigurationDataProvider.class
+utility\Configuration1.class
+utility\ExcelReadWrite.class
+utility\WaTextGroupSender.class
+utility\Email.class
+utility\WaImageGroupSender$ImageGroupMessage.class
+utility\WaImageGroupSender.class
+pages\DriverMapping.class
+testcases\TestExcel.class
